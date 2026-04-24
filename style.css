@@ -22,6 +22,12 @@
   --btn-text: #0d0d0f;
 }
 
+.logo-icon {
+    height: 32px;    /* DEFINE A ALTURA VISUAL DO ÍCONE */
+    width: auto;     /* Mantém a proporção */
+    vertical-align: middle; /* Alinha com o texto Kubunga */
+}
+
 /* ================================
    Layout Base (html, body)
    ================================ */
